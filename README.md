@@ -13,6 +13,8 @@
 - Assignments:
   Assignment 1: Report,Assignment 2: Website,Assignment 3: GitHub E-portfolio
 
+- I have gained tremendous experience by doing the assignment provided,great learning curve for me to overcome and force me to utilize materials around me to finish the task given
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

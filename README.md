@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Mohamad Syakirin Bin Mohamad Yusof</h1>
+<h1 align="center">Mohamad Syakirin Bin Mohamad Yusof</h1>
 <h3 align="center">A Computer Science Student(Network And Security) in UTM</h3>
 
-- 🔭 I’m currently working on **Personanl Finance Manage**
+-  Projects are available at [https://github.com/Syakirin03](https://github.com/Syakirin03)
 
-- 🌱 I’m currently learning **CISCO networking certificates**
+- Can contact me and ask about anything related to security
 
-- 👨‍💻 All of my projects are available at [https://github.com/Syakirin03](https://github.com/Syakirin03)
+- Contact me at **skyin520@gmail.com**
 
-- 💬 Ask me about **anything related to security**
+- Core Educations:Pursuing Degree in Network related
 
-- 📫 How to reach me **skyin520@gmail.com**
+- Certificates:INTRODUCTION TO CISCO,MICROSOFT AZURE
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

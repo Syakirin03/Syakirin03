@@ -11,12 +11,7 @@
 
 - Certificates:INTRODUCTION TO CISCO,MICROSOFT AZURE
 - Assignments:
-
-o   Assignment 1: Report    
-
-o   Assignment 2: Website
-
-o   Assignment 3: GitHub E-portfolio
+  Assignment 1: Report,Assignment 2: Website,Assignment 3: GitHub E-portfolio
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

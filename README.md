@@ -1,17 +1,13 @@
 <h1 align="center">Mohamad Syakirin Bin Mohamad Yusof</h1>
 <h3 align="center">A Computer Science Student(Network And Security) in UTM</h3>
 
--  Projects are available at [https://github.com/Syakirin03](https://github.com/Syakirin03)
-
-- Can contact me and ask about anything related to security
+- Can contact me and ask about anything related to web security or web pqc certificates
 
 - Contact me at **skyin520@gmail.com**
 
-- Core Educations:Pursuing Degree in Network related
+- Core Educations:Pursuing Degree in Network/Server related, also knowledgeble in security field
 
-- Certificates:INTRODUCTION TO CISCO,MICROSOFT AZURE
-- Assignments:
-  Assignment 1: Report,Assignment 2: Website,Assignment 3: GitHub E-portfolio
+- Certificates:INTRODUCTION TO CISCO,MICROSOFT AZURE FUNDEMENTALS
 
 - I have gained tremendous experience by doing the assignment provided,great learning curve for me to overcome and force me to utilize materials around me to finish the task given
 

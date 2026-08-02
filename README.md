@@ -1,11 +1,11 @@
 <h1 align="center">Mohamad Syakirin Bin Mohamad Yusof</h1>
 <h3 align="center">A Computer Science Student(Network And Security) in UTM</h3>
 
-- Can contact me and ask about anything related to web security or web pqc certificates
+- Can contact me and ask about anything related to data engineerning,web security or web pqc certificates
 
-- Contact me at **skyin520@gmail.com**
+- Contact me at **mohamadsyakirinyusof@gmail.com**
 
-- Core Educations:Pursuing Degree in Network/Server related, also knowledgeble in security field
+- Core Educations: Degree in Network/Server related, also knowledgeble in security field
 
 - Certificates:INTRODUCTION TO CISCO,MICROSOFT AZURE FUNDEMENTALS
 

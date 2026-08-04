@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamad Syakirin Bin Mohamad Yusof</h1>
-<h3 align="center">Computer Science (Network & Security) Student | Aspiring Data Engineer | Universiti Teknologi Malaysia (UTM)</h3>
+<h3 align="center">Aspiring Data Engineer | Universiti Teknologi Malaysia (UTM)</h3>
 
 ---
 

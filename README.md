@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a final-year Computer Science student specializing in **Network and Security** at **Universiti Teknologi Malaysia (UTM)** with a growing passion for **Data Engineering**, cloud technologies, and building scalable data solutions.
+I'm a fresh graduate of Computer Science degree specializing in **Network and Security** at **Universiti Teknologi Malaysia (UTM)** with a growing passion for **Data Engineering**, cloud technologies, and building scalable data solutions.
 
 Through academic projects and self-learning, I've developed practical experience in designing ETL pipelines, data warehousing, and working with modern data engineering tools. I enjoy solving complex problems and continuously expanding my technical knowledge by building hands-on projects.
 

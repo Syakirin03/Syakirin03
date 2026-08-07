@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamad Syakirin Bin Mohamad Yusof</h1>
-<h3 align="center">Aspiring Data Engineer | Universiti Teknologi Malaysia (UTM)</h3>
+<h3 align="center">Aspiring Data Engineer/Analyst | Universiti Teknologi Malaysia (UTM)</h3>
 
 ---
 
@@ -30,6 +30,26 @@ I'm currently focused on developing my skills in:
 - Cybersecurity
 - Web Security
 - Post-Quantum Cryptography (PQC)
+
+---
+
+## 📂 Featured Projects
+
+### 🏎️ [F1 Weekly Report – Databricks Lakehouse](https://github.com/Syakirin03/F1-WeeklyReport-Databrick)
+End-to-end Formula 1 data lakehouse on Databricks. Pulls race, standings, and lap telemetry data from the FastF1 API, processes it through a Silver → Gold Medallion pipeline into a Star Schema, and refreshes an AI/BI dashboard automatically via a scheduled Databricks Workflow after every race.
+`Databricks` `PySpark` `Delta Lake` `FastF1 API` `Star Schema` `Databricks Workflows`
+
+### 🏗️ [Databricks Lakehouse Project](https://github.com/Syakirin03/databrick-lakehouse-project)
+Small-scale data lakehouse consolidating raw CRM and ERP CSV data through a Bronze → Silver → Gold Medallion Architecture, with PySpark-based cleansing and standardization feeding a Star Schema (`dim_customers`, `dim_products`, `fact_sales`) built for analytics and reporting.
+`Databricks` `PySpark` `Delta Lake` `Medallion Architecture` `Data Modeling`
+
+### 🗄️ [SQL Data Warehouse Project](https://github.com/Syakirin03/sql-datawarehouse-project)
+A complete data engineering project building a modern data warehouse on SQL Server — covering the full ETL process, data modeling, and analytics from raw source data to reporting-ready tables.
+`SQL Server` `ETL` `Data Modeling` `Data Warehousing`
+
+### 🔐 [PQC-Testing](https://github.com/Syakirin03/PQC-Testing)
+Benchmarking suite for a university thesis on network security, measuring the real-world TLS 1.3 handshake latency and packet overhead of migrating from classical to post-quantum cryptography. Compares X25519, ML-KEM-768/1024, and the hybrid X25519+ML-KEM-768 key exchange using a custom OpenSSL build with `oqsprovider`, with Python automation and Wireshark-based packet analysis.
+`Post-Quantum Cryptography` `TLS 1.3` `OpenSSL` `oqsprovider` `Python` `Network Security`
 
 ---
 

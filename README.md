@@ -130,12 +130,12 @@ Feel free to connect with me to discuss:
 
 ## 📈 Currently Working On
 
-- 🔹 Building an open-source data pipeline with Apache Airflow, dbt, and Superset
-- 🔹 Building Data Engineering projects using Databricks
-- 🔹 Learning Delta Lake and Spark optimization
-- 🔹 Developing end-to-end ETL/ELT pipelines
-- 🔹 Building interactive Power BI dashboards
-- 🔹 Expanding cloud knowledge on Microsoft Azure
+ 🔹 Building an open-source data pipeline with Apache Airflow, dbt, and Superset
+ 🔹 Building Data Engineering projects using Databricks
+ 🔹 Learning Delta Lake and Spark optimization
+ 🔹 Developing end-to-end ETL/ELT pipelines
+ 🔹 Building interactive Power BI dashboards
+ 🔹 Expanding cloud knowledge on Microsoft Azure
 
 ---
 

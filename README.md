@@ -41,9 +41,13 @@ I'm currently focused on developing my skills in:
 End-to-end ELT pipeline built entirely on open-source tools. Apache Airflow orchestrates ingestion from a live weather API into PostgreSQL, then triggers a containerized dbt run that transforms raw data through staging and mart models, feeding interactive Apache Superset dashboards. Fully containerized and networked with Docker Compose.
 `Apache Airflow` `dbt` `PostgreSQL` `Apache Superset` `Docker Compose`
 
-### 🏎️ [F1 Weekly Report – Databricks Lakehouse](https://github.com/Syakirin03/F1-WeeklyReport-Databrick)
-End-to-end Formula 1 data lakehouse on Databricks. Pulls race, standings, and lap telemetry data from the FastF1 API, processes it through a Silver → Gold Medallion pipeline into a Star Schema, and refreshes an AI/BI dashboard automatically via a scheduled Databricks Workflow after every race.
-`Databricks` `PySpark` `Delta Lake` `FastF1 API` `Star Schema` `Databricks Workflows`
+### 🏎️ [F1 Race Hub](https://github.com/Syakirin03/f1-race-hub) · [Live site](https://syakirin03.github.io/f1-race-hub/)
+Formula 1 analytics website with race results, lap-by-lap race analytics, and championship forecasts, refreshed daily by a GitHub Actions pipeline and deployed to GitHub Pages. An incremental, resumable ETL job loads the Jolpica F1 API into a normalized SQLite database, while a separate warehouse merges 1950–2024 history with live 2026 data through Bronze → Silver → Gold layers with logged data-quality checks. The warehouse feeds a logistic-regression race-winner model (winner in its top 3 picks in 91% of unseen 2022–2024 races, vs 84% for a grid baseline) and a from-scratch Plackett–Luce + Monte Carlo forecast of the 2027 championship, backtested on 2016–2024.
+`Python` `SQLite` `ETL` `Data Warehousing` `scikit-learn` `Monte Carlo Simulation` `GitHub Actions` `JavaScript`
+
+### 🎧 [Music Recommender](https://github.com/Syakirin03/ML-music) [Demo site] (https://syakirin03.github.io/ML-music/)
+Machine-learning music recommender built on personal Spotify data exports. A DuckDB pipeline processes the raw exports through Bronze → Silver → Gold layers and enriches tracks with genre tags from the Last.fm API, producing model-ready listening features for personalized song recommendations.
+`Python` `DuckDB` `SQL` `Medallion Architecture` `Last.fm API` `Machine Learning`
 
 ### 🏗️ [Databricks Lakehouse Project](https://github.com/Syakirin03/databrick-lakehouse-project)
 Small-scale data lakehouse consolidating raw CRM and ERP CSV data through a Bronze → Silver → Gold Medallion Architecture, with PySpark-based cleansing and standardization feeding a Star Schema (`dim_customers`, `dim_products`, `fact_sales`) built for analytics and reporting.
